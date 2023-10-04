@@ -120,7 +120,7 @@ p.cart{
     font-weight: 700;
 }
 .main{
-    background-image: url(/Amazon/images/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -218,7 +218,7 @@ ul a:hover{
     align-items: center;
 }
 .logo{
-    background-image: url(/Amazon/images/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     width: 100px;
     height: 50px;
